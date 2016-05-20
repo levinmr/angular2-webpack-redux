@@ -1,0 +1,15 @@
+{
+  "ambientDevDependencies": {
+    "jasmine": "registry:dt/jasmine#2.2.0+20160412134438",
+    "jasmine-immutable": "file:./jasmine-immutable.d.ts",
+    "selenium-webdriver": "registry:dt/selenium-webdriver#2.44.0+20160317120654"
+  },
+  "ambientDependencies": {
+    "angular-protractor": "registry:dt/angular-protractor#1.5.0+20160425143459",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654",
+    "isomorphic-fetch": "registry:dt/isomorphic-fetch#0.0.0+20160505171433",
+    "node": "registry:dt/node#4.0.0+20160501135006"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
